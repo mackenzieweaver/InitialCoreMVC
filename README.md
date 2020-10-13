@@ -14,7 +14,7 @@ The site is not live because it has not been hosted and/or deployed anywhere.
 
 But you can clone this repo
 
-`git clone https://github.com/mackenzieweaver/InitialCoreMVC`
+`git clone https://github.com/mackenzieweaver/TacoCatMVC`
 
 ### Contribute
 
